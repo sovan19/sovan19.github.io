@@ -17,7 +17,7 @@ header::before{
 }         
 header{
     background-color: rgb(241, 204, 226);
-    background-image:url('/assignment-1 2/images/flywheel.jpg');
+    background-image:url('flywheel.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 8px 20px;
